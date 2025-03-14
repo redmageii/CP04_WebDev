@@ -2,6 +2,7 @@ Filip Arnhold Outa - RM559294</br>
 Matheus Ricardo Parreira da Silva - RM560099</br>
 Davi Paiao Correa - RM560438</br>
 Marcos Azuma - RM559883</br>
+Marcos Vinicius - RM560062
 
 Instruções de uso:
 
