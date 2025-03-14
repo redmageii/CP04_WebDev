@@ -13,7 +13,7 @@ o usuário deverá instalar o pacote através do código "npm install @redmageii
 
 Após instalar o pacote, cria-se e executa-se um arquivo de javascript com o seguinte trecho:
 
-import namegen from "@redmageii/villainnamegen"
+import namegen from "@redmageii/villainnamegen"</br>
 console.log(namegen("Nome"))
 
 onde o argumento da função namegen corresponderá ao nome dado pelo usuário.
